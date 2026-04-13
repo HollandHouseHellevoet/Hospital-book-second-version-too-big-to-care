@@ -4,13 +4,13 @@
 
 ## The Arc
 
-1. Dutch kid in Amsterdam. Tulips. Van Gogh. The flower markets. Learning how markets actually work.
+1. Dutch kid in Holland. Baarn, Hellevoetsluis, Rotterdam. Learning how markets actually work.
 
 2. College. ALS research. First exposure to healthcare's dysfunction.
 
-3. Mission trip. The realization: healthcare has no market. No price discovery. No exchange. Just opacity and extraction.
+3. Mission trip to Guyana, 1996. The realization: healthcare has no market. No price discovery. No exchange. Just opacity and extraction.
 
-4. Grad school. 2010. Surgery futures thesis. Patented. Trademarked. Nobody's ready.
+4. 2010. Healthcare Commodities Exchange — HcX. A first-principles solution for the world. Patented. Trademarked. Nobody's ready.
 
 5. So you go build anyway. ASCs. Direct contracts. Health plans. Three exits. MedMerge. PhyCap. PHA board.
 
@@ -26,17 +26,19 @@ Establish credibility and stakes. Tell the reader why you're the one writing thi
 
 ## Draft
 
-### Amsterdam
+### Holland
 
-I grew up in Amsterdam.
+I was born in Baarn and raised in Hellevoetsluis.
 
-Not the Amsterdam of coffee shops and canal tours. The Amsterdam of the Bloemenmarkt, the floating flower market where tulips moved by the pallet and every stem had a price.
+Baarn sits inland, a quiet town in Utrecht province. Hellevoetsluis sits on the water in Zuid Holland — a former naval port, a town built around locks and a harbor, the salt wind coming in off the Haringvliet. A short drive from my front door was Rotterdam, the largest sea port in the world.
 
-The Dutch invented the modern market. Tulip mania, 1637 — the first recorded bubble. The Amsterdam Stock Exchange, 1602 — the first anywhere. The VOC, the first joint-stock corporation. Price discovery, public trading, transparent quotation: all of it was built on a few square miles of reclaimed swamp.
+Every commodity humans trade moves through Rotterdam. Oil. Grain. Steel. Coffee. Cars. Electronics. Containers by the millions, every year, funneled through a single mouth on the North Sea. A child growing up in that part of the country grows up inside a functioning global marketplace whether he notices it or not.
 
-I learned how markets work by walking through one every day.
+The Dutch invented the modern market. Tulip mania, 1637 — the first recorded bubble. The Amsterdam Stock Exchange, 1602 — the first anywhere. The Dutch East India Company — the first joint-stock corporation. Price discovery, public trading, transparent quotation: all of it was built on a few square miles of reclaimed swamp.
 
-A tulip had a price. A Van Gogh had a price. A loaf of bread had a price. The price moved. Buyers and sellers could see it move. If you didn't like the price, you walked to the next stall.
+I grew up inside that inheritance.
+
+A bag of coffee had a price. A barrel of oil had a price. A tulip had a price. A ship in Rotterdam had a price. The price moved. Buyers and sellers could see it move. If you did not like the price, you walked to the next stall — or you sailed to the next port.
 
 That is what a market is. Not a slogan. Not a theory. A place where price is visible and exit is available.
 
@@ -48,7 +50,7 @@ Except one.
 
 I came to the United States for college. I studied science. I ended up in an ALS lab.
 
-*[DUTCH — what year, what institution, what specifically were you working on? One paragraph of detail here lands the credibility.]*
+*[DUTCH — what year, which institution, and what specifically were you working on? One paragraph of detail here lands the credibility.]*
 
 ALS is a death sentence. Motor neurons die. Patients lose the ability to move, then swallow, then breathe. There is no cure. There is barely a treatment.
 
@@ -58,17 +60,17 @@ The science was hard. The system around the science was a scam.
 
 That was the first crack.
 
-### The Mission Trip
+### Guyana, 1996
 
-*[DUTCH — where and when? Country, year, what organization?]*
+In 1996 I went on a mission trip to Guyana.
 
-I went on a mission trip.
+We ran clinics in two economies. On the coast, in Georgetown, patients who could pay paid — a small fee, quoted before the visit, in Guyanese dollars. Patients who could not pay did not pay. The clinic ran either way.
 
-We ran a clinic in a place that had almost nothing. No MRI. No EMR. No billing department. No prior auth. A physician, a stethoscope, a box of medications, and a line of people.
+Upriver, past the roads, past the power lines, past the phone signal, the money disappeared. In the jungle it was all volunteer. A physician, a stethoscope, a box of medications, and a line of people who had walked for hours to be there.
 
-Care happened. Prices were quoted in the local currency or in a bag of rice. Patients knew what things cost before they agreed to them. Physicians knew what they were being paid. Nobody needed a $400,000 revenue cycle team to close the loop.
+Care happened in both places. Nobody needed a $400,000 revenue cycle team to close the loop. Nobody argued with a prior authorization fax. Nobody got a surprise bill three months later from an out-of-network radiologist.
 
-I flew home to the richest healthcare system on the planet and could not get a straight price on a knee scan.
+I flew home to the richest healthcare system on the planet and could not get a straight price on an X-ray.
 
 That was the moment.
 
@@ -76,11 +78,17 @@ Healthcare in America has no market. No price discovery. No exchange. No visible
 
 A market without prices is not a market. It is a hunting ground.
 
-### Grad School, 2010
+### 2010 — HcX
 
-I went to graduate school to fix it.
+In 2010 I went to work on a first-principles solution.
 
-My thesis proposed a healthcare commodities exchange — surgery futures and options. A tradeable, transparent contract on a defined procedure at a defined facility for a defined price. If corn had a futures market, a knee replacement could have one too.
+A commodities exchange for medical treatments and services. I called it the Healthcare Commodities Exchange. HcX.
+
+The premise was simple. Corn trades on an exchange. Oil trades on an exchange. Coffee, cattle, copper, wheat, natural gas — every real commodity in the world trades on an open market where the price is visible and the contract is enforceable. A knee replacement is a commodity. A colonoscopy is a commodity. An MRI is a commodity. They can be standardized. They can be priced. They can be traded.
+
+Build the exchange, and price discovery arrives overnight. Build the exchange, and the opacity dies. Build the exchange, and the country that hosts it owns the infrastructure of global medicine — the way Chicago owns grain, London owns metals, and New York owns equities.
+
+The United States could make an enormous amount of money controlling the world's supply and demand of medical care. The United States chose not to.
 
 I patented the mechanism. I trademarked the brand. I walked the thesis into rooms full of people who were supposed to want it.
 
@@ -152,10 +160,5 @@ Let's go.
 
 ## QUESTIONS FOR DUTCH
 
-1. **ALS research:** What year, which institution, and what specifically were you working on? Want one concrete detail to ground the scene (a patient, a finding, a grant).
-2. **Mission trip:** Where and when? Country, year, organization, and one specific moment that crystallized the "healthcare has no market" realization.
-3. **Knee scan anecdote:** Is that yours? If there's a real, specific procedure-and-price story from your own life that works better, swap it in.
-4. **Graduate school:** Which program and year? The thesis is 2010 — was that the graduation year or the filing year?
-5. **Three exits:** Do you want the companies named here, or keep it generic in the intro and name them later in the book?
-6. **Opening image:** Amsterdam/tulips/Bloemenmarkt is the current cold open. Alternative candidates: ALS lab, mission-trip clinic, sitting in a PHA board meeting watching a bill die. Which hits hardest for you?
-7. **Length check:** Current draft is roughly 1,100 words. Typical trade-nonfiction introductions run 2,000–4,000. Do you want to expand (more Amsterdam, more building-anyway) or keep it tight?
+1. **ALS research:** Still open — what year, which institution, and what specifically were you working on? One concrete detail (a patient, a finding, a grant) lands the scene.
+2. **Length check:** Current draft is roughly 1,250 words. Typical trade-nonfiction introductions run 2,000–4,000. Expand (more Holland, more HcX, more building-anyway) or keep it tight?
