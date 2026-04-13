@@ -96,7 +96,11 @@ Stephen Hawking was Toby's friend. That is the clean way of saying that when the
 
 ALS steals speech before it steals breath. Motor neurons die. The body becomes a cage. What Toby built was a key — a tablet, a switch, a camera, a carefully tuned piece of software that let a mind find its way back into the room.
 
-I flew from Heathrow to Phoenix Sky Harbor without uttering a word out loud. Every syllable of that journey — the boarding pass, the customs line, the cab, the hotel front desk — ran through the machine. It was one of the most beautiful experiences of my life.
+I flew from Heathrow to Phoenix Sky Harbor without uttering a word out loud. Every syllable of that journey — the boarding pass, the cab, the hotel front desk — ran through the machine. You typed, and the machine spoke in your voice. The software built the voice for you from your own recordings, and it held a library of pre-programmed words and phrases to keep the pace of conversation bearable.
+
+The passport officer at Phoenix Sky Harbor did not understand what was happening. A young man, first real job by the look of him. He asked me why I could not speak. I typed. The machine answered in my voice and told him. He nodded. He stamped the passport. He waved me through.
+
+It was one of the most beautiful experiences of my life.
 
 That trip taught me something this industry tries very hard to hide. Medicine, at its best, is humane. The tools are beautiful. The people who build them are motivated. The patients are patient. The relationships are sacred.
 
@@ -164,6 +168,4 @@ Let's go.
 
 ## QUESTIONS FOR DUTCH
 
-1. **Length check:** Current draft is roughly 1,400 words. Typical trade-nonfiction introductions run 2,000–4,000. Expand (more Holland, more HcX, more Toby Churchill, more building-anyway) or keep it tight?
-2. **Toby Churchill scene:** Want to add any specifics from the Heathrow→Phoenix flight — a single interaction (the customs officer, the cab driver, a stranger who noticed the device) that would land the scene visually?
-3. **Order check:** Arc now runs Holland → Guyana 1996 → 2010 HcX → Cambridge 2012 → Building → Today. The Toby Churchill story sits between HcX and Building Anyway, so it reads as the humanity beat after the rejection beat. If you'd rather it sit earlier (before HcX, as motivation) say the word.
+*None open — introduction is ready for your review pass.*
