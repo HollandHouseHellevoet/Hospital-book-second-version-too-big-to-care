@@ -6,11 +6,11 @@
 
 1. Dutch kid in Holland. Baarn, Hellevoetsluis, Rotterdam. Learning how markets actually work.
 
-2. College. ALS research. First exposure to healthcare's dysfunction.
+2. Guyana, 1996. Mission trip. The realization: healthcare has no market. No price discovery. No exchange. Just opacity and extraction.
 
-3. Mission trip to Guyana, 1996. The realization: healthcare has no market. No price discovery. No exchange. Just opacity and extraction.
+3. 2010. Healthcare Commodities Exchange — HcX. A first-principles solution for the world. Patented. Trademarked. Nobody's ready.
 
-4. 2010. Healthcare Commodities Exchange — HcX. A first-principles solution for the world. Patented. Trademarked. Nobody's ready.
+4. Cambridge, 2012. HcX doesn't pay the bills, so consulting does. The client is Toby Churchill — ALS, augmentative communication devices, and a reminder of what medicine is supposed to be.
 
 5. So you go build anyway. ASCs. Direct contracts. Health plans. Three exits. MedMerge. PhyCap. PHA board.
 
@@ -45,20 +45,6 @@ That is what a market is. Not a slogan. Not a theory. A place where price is vis
 Every functioning economy on earth runs on that idea.
 
 Except one.
-
-### College and the First Crack
-
-I came to the United States for college. I studied science. I ended up in an ALS lab.
-
-*[DUTCH — what year, which institution, and what specifically were you working on? One paragraph of detail here lands the credibility.]*
-
-ALS is a death sentence. Motor neurons die. Patients lose the ability to move, then swallow, then breathe. There is no cure. There is barely a treatment.
-
-I spent my days around patients who were running out of time and families who were running out of money. I watched bills arrive that nobody could read. I watched insurers deny claims that nobody could appeal. I watched hospitals charge numbers that nobody could defend.
-
-The science was hard. The system around the science was a scam.
-
-That was the first crack.
 
 ### Guyana, 1996
 
@@ -97,6 +83,24 @@ Nobody was ready.
 The hospitals did not want prices. The insurers did not want prices. The consultants did not want prices. The regulators did not want prices. The only people who wanted prices were patients and physicians, and neither of them had a seat at the table.
 
 I learned the lesson every reformer eventually learns. The people who run this system are not confused. They are not waiting for a better idea. They built the opacity on purpose, and they will fight anyone who tries to lift it.
+
+### Cambridge, 2012
+
+HcX did not pay the bills.
+
+An idea that early needs time, and time costs money. So I took consulting work. In 2012 that work took me to Cambridge, England, to a client named Toby Churchill.
+
+Toby Churchill was a man and a company. The company built augmentative and alternative communication devices — machines that give a voice to people who have lost theirs. The man built them because he understood what they were for.
+
+Stephen Hawking was Toby's friend. That is the clean way of saying that when the most famous physicist in the world needed a voice, the firm that made it was a small English company in Cambridge run by a person who cared about the work.
+
+ALS steals speech before it steals breath. Motor neurons die. The body becomes a cage. What Toby built was a key — a tablet, a switch, a camera, a carefully tuned piece of software that let a mind find its way back into the room.
+
+I flew from Heathrow to Phoenix Sky Harbor without uttering a word out loud. Every syllable of that journey — the boarding pass, the customs line, the cab, the hotel front desk — ran through the machine. It was one of the most beautiful experiences of my life.
+
+That trip taught me something this industry tries very hard to hide. Medicine, at its best, is humane. The tools are beautiful. The people who build them are motivated. The patients are patient. The relationships are sacred.
+
+The scam is not the medicine. The scam is the structure that has been built on top of it.
 
 ### Building Anyway
 
@@ -160,5 +164,6 @@ Let's go.
 
 ## QUESTIONS FOR DUTCH
 
-1. **ALS research:** Still open — what year, which institution, and what specifically were you working on? One concrete detail (a patient, a finding, a grant) lands the scene.
-2. **Length check:** Current draft is roughly 1,250 words. Typical trade-nonfiction introductions run 2,000–4,000. Expand (more Holland, more HcX, more building-anyway) or keep it tight?
+1. **Length check:** Current draft is roughly 1,400 words. Typical trade-nonfiction introductions run 2,000–4,000. Expand (more Holland, more HcX, more Toby Churchill, more building-anyway) or keep it tight?
+2. **Toby Churchill scene:** Want to add any specifics from the Heathrow→Phoenix flight — a single interaction (the customs officer, the cab driver, a stranger who noticed the device) that would land the scene visually?
+3. **Order check:** Arc now runs Holland → Guyana 1996 → 2010 HcX → Cambridge 2012 → Building → Today. The Toby Churchill story sits between HcX and Building Anyway, so it reads as the humanity beat after the rejection beat. If you'd rather it sit earlier (before HcX, as motivation) say the word.
